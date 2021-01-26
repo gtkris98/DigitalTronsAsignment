@@ -19,7 +19,11 @@ Make sure you have the following:
 
 ```npm install```
 
-3. Connect a pyhsical device with USB Debuggind On or run a AVD and run the command
+3. Link the assests so that the fonts load by running this command
+
+```npx react-native link```
+
+4. Connect a pyhsical device with USB Debuggind On or run a AVD and run the command
 
 ```npx react-native run-android```
 
